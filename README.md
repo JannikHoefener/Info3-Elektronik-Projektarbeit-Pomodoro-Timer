@@ -8,3 +8,4 @@ Projektidee: Pomodoro-Timer
 2359614 Helms, Sören Richard
 
 2574970 Hoefener, Jannik
+# Info3-Elektronik-Projektarbeit-Pomodoro-Timer
